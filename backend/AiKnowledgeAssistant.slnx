@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AiKnowledgeAssistant.Api/AiKnowledgeAssistant.Api.csproj" />
+    <Project Path="src/AiKnowledgeAssistant.Application/AiKnowledgeAssistant.Application.csproj" />
+    <Project Path="src/AiKnowledgeAssistant.Domain/AiKnowledgeAssistant.Domain.csproj" />
+    <Project Path="src/AiKnowledgeAssistant.Infrastructure/AiKnowledgeAssistant.Infrastructure.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,11 @@
+@AiKnowledgeAssistant.Api_HostAddress = http://localhost:5224
+
+GET {{AiKnowledgeAssistant.Api_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{AiKnowledgeAssistant.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
